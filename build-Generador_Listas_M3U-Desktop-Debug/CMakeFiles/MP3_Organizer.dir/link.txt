@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/MP3_Organizer.dir/MP3_Organizer_autogen/mocs_compilation.cpp.o CMakeFiles/MP3_Organizer.dir/main.cpp.o CMakeFiles/MP3_Organizer.dir/mp3organizer.cpp.o -o MP3_Organizer  /usr/lib/libQt5Widgets.so.5.15.7 /usr/lib/libQt5Gui.so.5.15.7 /usr/lib/libQt5Core.so.5.15.7 
