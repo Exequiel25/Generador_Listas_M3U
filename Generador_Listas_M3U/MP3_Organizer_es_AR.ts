@@ -10,38 +10,39 @@
     </message>
     <message>
         <location filename="mp3organizer.ui" line="22"/>
-        <source>Folder Path:</source>
-        <oldsource>Folder:</oldsource>
+        <source>Dirección carpeta:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mp3organizer.ui" line="36"/>
-        <source>Browse</source>
+        <source>Explorar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mp3organizer.ui" line="47"/>
-        <source>MP3 Files</source>
+        <source>Archivos MP3 encontrados:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mp3organizer.ui" line="57"/>
-        <source>M3U Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="mp3organizer.ui" line="69"/>
-        <source>[+]Status:...</source>
+        <source>Archivos M3U encontrados / generados:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mp3organizer.ui" line="85"/>
-        <source>Continue</source>
+        <source>Generar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mp3organizer.ui" line="69"/>
+        <source>[+]Estado:...</source>
+        <oldsource>[+]Status:...</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="mp3organizer.ui" line="78"/>
-        <source>Cancel</source>
+        <source>Cancelar</source>
+        <oldsource>Cancel</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>

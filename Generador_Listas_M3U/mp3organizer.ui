@@ -19,7 +19,7 @@
      <item>
       <widget class="QLabel" name="label">
        <property name="text">
-        <string>Folder Path:</string>
+        <string>Dirección carpeta:</string>
        </property>
       </widget>
      </item>
@@ -33,7 +33,7 @@
      <item>
       <widget class="QPushButton" name="browseButton">
        <property name="text">
-        <string>Browse</string>
+        <string>Explorar</string>
        </property>
       </widget>
      </item>
@@ -44,7 +44,7 @@
      <item>
       <widget class="QLabel" name="label_2">
        <property name="text">
-        <string>MP3 Files</string>
+        <string>Archivos MP3 encontrados:</string>
        </property>
       </widget>
      </item>
@@ -54,7 +54,7 @@
      <item>
       <widget class="QLabel" name="label_3">
        <property name="text">
-        <string>M3U Files</string>
+        <string>Archivos M3U encontrados / generados:</string>
        </property>
       </widget>
      </item>
@@ -66,7 +66,7 @@
    <item>
     <widget class="QLabel" name="lblResult">
      <property name="text">
-      <string>[+]Status:...</string>
+      <string>[+]Estado:...</string>
      </property>
     </widget>
    </item>
@@ -75,14 +75,14 @@
      <item>
       <widget class="QPushButton" name="cancelButton">
        <property name="text">
-        <string>Cancel</string>
+        <string>Cancelar</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="continueButton">
        <property name="text">
-        <string>Continue</string>
+        <string>Generar</string>
        </property>
       </widget>
      </item>

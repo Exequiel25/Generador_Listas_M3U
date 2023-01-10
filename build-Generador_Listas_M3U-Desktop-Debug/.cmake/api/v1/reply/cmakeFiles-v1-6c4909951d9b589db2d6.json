@@ -20,12 +20,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.24.3/CMakeSystem.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/usr/share/cmake/Modules/CMakeUnixFindMake.cmake"
+			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.25.0/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -215,6 +210,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/usr/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
 		},
 		{
@@ -269,7 +269,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.24.3/CMakeCXXCompiler.cmake"
+			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.25.0/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -393,7 +393,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.24.3/CMakeCXXCompiler.cmake"
+			"path" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug/CMakeFiles/3.25.0/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isExternal" : true,

@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "24"
+			"value" : "25"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "0"
 		},
 		{
 			"name" : "CMAKE_COLOR_MAKEFILE",
@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "MP3_Organizer"
+			"value" : "Generador_Listas_M3U"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1114,7 +1114,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "MP3_Organizer_BINARY_DIR",
+			"name" : "Generador_Listas_M3U_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1126,7 +1126,7 @@
 			"value" : "/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug"
 		},
 		{
-			"name" : "MP3_Organizer_IS_TOP_LEVEL",
+			"name" : "Generador_Listas_M3U_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1138,7 +1138,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "MP3_Organizer_SOURCE_DIR",
+			"name" : "Generador_Listas_M3U_SOURCE_DIR",
 			"properties" : 
 			[
 				{

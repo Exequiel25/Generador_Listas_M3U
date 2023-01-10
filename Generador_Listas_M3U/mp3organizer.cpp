@@ -117,7 +117,7 @@ void MP3Organizer::on_continueButton_clicked()
                 QString month = name.mid(index+1,2);
                 QString day = name.mid(index+4,2);
 
-                // in case file exist, we clean it
+                // search content in file
                 QFile file(ui->txtPath->text()+QDir::separator()+year+"-"+month+"-"+day+".m3u");
                 if(file.open(QIODevice::WriteOnly | QIODevice::Text)){file.close();};
 

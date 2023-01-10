@@ -121,13 +121,13 @@ public:
     void retranslateUi(QWidget *MP3Organizer)
     {
         MP3Organizer->setWindowTitle(QCoreApplication::translate("MP3Organizer", "MP3Organizer", nullptr));
-        label->setText(QCoreApplication::translate("MP3Organizer", "Folder Path:", nullptr));
-        browseButton->setText(QCoreApplication::translate("MP3Organizer", "Browse", nullptr));
-        label_2->setText(QCoreApplication::translate("MP3Organizer", "MP3 Files", nullptr));
-        label_3->setText(QCoreApplication::translate("MP3Organizer", "M3U Files", nullptr));
-        lblResult->setText(QCoreApplication::translate("MP3Organizer", "[+]Status:...", nullptr));
-        cancelButton->setText(QCoreApplication::translate("MP3Organizer", "Cancel", nullptr));
-        continueButton->setText(QCoreApplication::translate("MP3Organizer", "Continue", nullptr));
+        label->setText(QCoreApplication::translate("MP3Organizer", "Direcci\303\263n carpeta:", nullptr));
+        browseButton->setText(QCoreApplication::translate("MP3Organizer", "Explorar", nullptr));
+        label_2->setText(QCoreApplication::translate("MP3Organizer", "Archivos MP3 encontrados:", nullptr));
+        label_3->setText(QCoreApplication::translate("MP3Organizer", "Archivos M3U encontrados / generados:", nullptr));
+        lblResult->setText(QCoreApplication::translate("MP3Organizer", "[+]Estado:...", nullptr));
+        cancelButton->setText(QCoreApplication::translate("MP3Organizer", "Cancelar", nullptr));
+        continueButton->setText(QCoreApplication::translate("MP3Organizer", "Generar", nullptr));
     } // retranslateUi
 
 };

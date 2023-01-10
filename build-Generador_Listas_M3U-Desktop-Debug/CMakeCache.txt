@@ -224,15 +224,6 @@ Generador_Listas_M3U_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Generador_Listas_M3U_SOURCE_DIR:STATIC=/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/Generador_Listas_M3U
 
-//Value Computed by CMake
-MP3_Organizer_BINARY_DIR:STATIC=/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop-Debug
-
-//Value Computed by CMake
-MP3_Organizer_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-MP3_Organizer_SOURCE_DIR:STATIC=/home/exequiel/Documents/Projects/Radio UTN/Generador Listas M3U/Generador_Listas_M3U
-
 //Skip Qt Creator's package manager auto-setup
 QT_CREATOR_SKIP_PACKAGE_MANAGER_SETUP:BOOL=OFF
 
@@ -271,9 +262,9 @@ CMAKE_CACHEFILE_DIR:INTERNAL=/home/exequiel/Documents/Projects/Radio UTN/Generad
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=24
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=25
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=3
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=0
 //ADVANCED property for variable: CMAKE_COLOR_MAKEFILE
 CMAKE_COLOR_MAKEFILE-ADVANCED:INTERNAL=1
 //Path to CMake executable.
