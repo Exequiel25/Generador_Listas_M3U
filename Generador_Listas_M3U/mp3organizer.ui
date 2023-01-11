@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MP3Organizer</string>
+   <string>Generador Listas M3U</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>

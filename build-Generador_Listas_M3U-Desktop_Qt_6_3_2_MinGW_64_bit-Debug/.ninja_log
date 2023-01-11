@@ -1,0 +1,17 @@
+# ninja log v5
+1	32	0	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d9c7c78612f9cb41
+2	1217	6951777023582121	MP3_Organizer_autogen/timestamp	b4d4b8db6dc2fdc0
+2	1217	6951777023582121	MP3_Organizer_autogen/mocs_compilation.cpp	b4d4b8db6dc2fdc0
+2	1217	6951777023582121	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/MP3_Organizer_autogen/timestamp	b4d4b8db6dc2fdc0
+2	1217	6951777023582121	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/MP3_Organizer_autogen/mocs_compilation.cpp	b4d4b8db6dc2fdc0
+1217	4271	6951777055800121	CMakeFiles/MP3_Organizer.dir/MP3_Organizer_autogen/mocs_compilation.cpp.obj	939944880ced3d27
+1220	4360	6951777056684742	CMakeFiles/MP3_Organizer.dir/main.cpp.obj	5ff3c5c8bc995faf
+1224	5451	6951777067587884	CMakeFiles/MP3_Organizer.dir/mp3organizer.cpp.obj	3211a54dd9c1dda0
+5451	6360	6951777076630892	MP3_Organizer.exe	d69e97c5c3901ca1
+1	32	0	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d9c7c78612f9cb41
+414	712	6951779517102731	MP3_Organizer_autogen/timestamp	b4d4b8db6dc2fdc0
+414	712	6951779517102731	MP3_Organizer_autogen/mocs_compilation.cpp	b4d4b8db6dc2fdc0
+414	712	6951779517102731	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/MP3_Organizer_autogen/timestamp	b4d4b8db6dc2fdc0
+414	712	6951779517102731	E:/Radio UTN/Generador Listas M3U/build-Generador_Listas_M3U-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/MP3_Organizer_autogen/mocs_compilation.cpp	b4d4b8db6dc2fdc0
+716	3958	6951779549565245	CMakeFiles/MP3_Organizer.dir/mp3organizer.cpp.obj	3211a54dd9c1dda0
+3959	4393	6951779553943966	MP3_Organizer.exe	d69e97c5c3901ca1
